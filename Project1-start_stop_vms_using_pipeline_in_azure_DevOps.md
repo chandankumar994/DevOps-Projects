@@ -1,4 +1,4 @@
-### Project.1 - How to Start/Stop VMs using AzureDevOps pipeline.
+### Project.1 - How to Start/Stop VMs using AzureDevOps pipeline (This practice will reduce 40% of azure resouce cost per-month)
 
 #### Prerequisites:
 * Azure Subscription (You need to create an account on azure portal)
