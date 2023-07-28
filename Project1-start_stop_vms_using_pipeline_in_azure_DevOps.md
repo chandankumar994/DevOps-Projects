@@ -17,13 +17,13 @@
 
 * Click on `New service connection` and then select `Azure Resource Manager` from the options and then click `next` button.
 * Select `Service principal (manual)` and click `next` button.
-* Provide all the information, and verify the connection.
+* Provide all the information, and `verify` the connection.
 
   ![image](https://github.com/chandankumar994/DevOps-Projects/assets/15160387/0a95ec8f-1ea8-4602-a8d4-fcc23c53ad2a)
 
-* Grant access to all pipeline then Click on `Save and Close`.
+* Grant access to all pipeline then Click on `Verify and Save`.
 ##### Step-1:
-* Create a frsh repository in azure devops for example "azure-start-stop".
+* Create a fresh repository in azure devops for example "azure-start-stop".
 
 * Create 'start-azure-vms.yml' and 'stop-azure-vms.yml' files like below.
 
